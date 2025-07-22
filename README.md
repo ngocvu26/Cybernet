@@ -11,5 +11,5 @@ Kỹ thuật sử dụng :
   AAA , DNS , Web , Gmail , FTP server 
   ACL 
   Static nat , dynamic nat 
-  HSRP 
+  HSRP ,
   Ispec VPN 
