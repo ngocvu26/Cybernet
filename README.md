@@ -1,5 +1,5 @@
 # Cybernet
-Dự án mạng máy tính basic - Khoa công nghệ thông tin - UEF
+Dự án tham gia cuộc thi mạng máy tính (basic) - Khoa công nghệ thông tin - UEF
 
 Phần mềm sử dụng : Cisco Packet Tracer 
 
