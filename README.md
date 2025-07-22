@@ -9,7 +9,7 @@ Kỹ thuật sử dụng :
   Chia Subnet 
   Vlan , Trunk 
   AAA , DNS , Web , Gmail , FTP server 
-  ACL 
-  Static nat , dynamic nat 
+  ACL , 
+  Nat (static vs dynamic) ,
   HSRP ,
   Ispec VPN 
