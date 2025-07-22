@@ -6,9 +6,9 @@ Phần mềm sử dụng : Cisco Packet Tracer
 Thiết bị sử dụng : PC , Sw-layer2 , MLS , Router , Server 
 
 Kỹ thuật sử dụng : 
-  Chia Subnet 
-  Vlan , Trunk 
-  AAA , DNS , Web , Gmail , FTP server 
+  Chia Subnet ,
+  Vlan , Trunk ,
+  AAA , DNS , Web , Gmail , FTP server ,
   ACL , 
   Nat (static vs dynamic) ,
   HSRP ,
